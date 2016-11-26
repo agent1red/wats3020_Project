@@ -33,6 +33,7 @@ filter: alpha(opacity=70);
 body {
 	
 	font-family: Federant;
+	background-color: black;
 }
 
 .main-text h1 {
@@ -44,7 +45,65 @@ h1 span {
 	color: #2cd65a;
 	 opacity: 1;
 }
-
-.spacer	{
-	padding-top: 2000px;
+/* Start main content area */
+.content {
+	margin-top: 100px;
+	margin-bottom: 300px;
+	margin-left: 50px;
+	margin-right: 100px;
 }
+
+
+.sellArea {
+	
+	border: 10px solid #B22222;/*delete*/
+	border-color: #73d62c;/*delete*/
+	
+	max-width: 500px;
+	 border-radius: 25px;
+}
+.carousel .item {
+    border-radius: 25px;
+    background-color: rgba(0,0,0,0);
+    overflow: hidden;
+}
+.carousel-control {
+    border-radius: 25px;
+}
+
+.carousel-indicators .active { 
+	 background-color: #73d62c;
+	
+}
+
+.carousel-control .glyphicon,
+.carousel-control .icon-prev,
+.carousel-control .icon-next {
+ background-color: #73d62c;
+	border-radius: 25px;
+	color: yellow;
+}
+/* Shoping Cart area   */
+
+.table{
+	
+	color: #2cd65a;
+	
+	margin-top: 100px;  
+}
+
+.table>tbody>tr>td, .table>tfoot>tr>td{
+    vertical-align: middle;
+}
+@media screen and (max-width: 200px) {
+   
+	
+}
+
+
+
+/* End Shopping cart area */
+
+
+
+/* End Main content area */
