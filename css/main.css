@@ -78,7 +78,7 @@ footer{
 .sellArea {
 	
 	border: 10px solid #B22222;/*delete*/
-	border-color: #73d62c;/*delete*/
+	border-color: #5cb85c;/*delete*/
 	
 	max-width: 500px;
 	 border-radius: 25px;
@@ -108,7 +108,7 @@ footer{
 
 .table{
 	
-	color: #2cd65a;
+	color: #5cb85c;
 	
 	margin-top: 100px;  
 }
@@ -122,7 +122,7 @@ footer{
 /* start flikr pull images  */
 
 .image-title{
-	color: #2cd65a;
+	color: #5cb85c;
 	margin-top: 300px;
 }
 
@@ -148,7 +148,7 @@ ul#images li  {
   border-radius: 25px;
   border-style: solid;
   border-width: 10px;
-  border-color: rgba(255, 255, 255, .5);
+  border-color: #5cb85c;
 
   
 }
