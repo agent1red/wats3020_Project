@@ -38,7 +38,9 @@
 min-width: 300px;
 	
 }
-/* Table section	 */
+	
+	
+/* selling Table section	 */
 	.table{
 	
 	margin-right: 10px;  
@@ -73,6 +75,10 @@ min-width: 300px;
 	table#cart tfoot td .btn{display:block;}
 	
 }
+
+/* Flicker Images */
+
+
 
 
 /*  Not using this code here but saving i for future exploring */
